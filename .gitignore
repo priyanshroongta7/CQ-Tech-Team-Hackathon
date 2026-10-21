@@ -1,0 +1,25 @@
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv/
+
+# Secrets & Credentials (DO NOT COMMIT!)
+credentials.json
+*.pem
+*.key
+.env
+.env.*
+!.env.example
+
+# Python cache & build files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+.DS_Store
+
+# Temporary outputs
+output.txt
+*.log

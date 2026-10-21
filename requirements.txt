@@ -1,0 +1,19 @@
+# Phase 1: Context Generation
+pdfplumber
+pydantic
+openai
+
+# Phase 2: Orchestration & Searching
+crewai
+crewai-tools
+langchain-openai
+
+# LangGraph State Machine Orchestrator
+langgraph
+langchain
+
+# Phase 3: Extraction & Verification
+requests
+
+# Phase 4: Output Pipeline
+gspread
